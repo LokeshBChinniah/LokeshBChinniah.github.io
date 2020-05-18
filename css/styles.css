@@ -9,10 +9,12 @@ body {
 }
 
 header {
-    background-color: darksalmon;
+    
 }
 
-div {
+
+
+.projects {
     text-align: center;
 }
 
