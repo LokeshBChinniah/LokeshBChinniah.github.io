@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #5fcf80;
+    background-color: lightgray;
 }
 
 header {
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color: lightcyan;
+    color: #5fcf80;
 }
 
 img {
@@ -25,9 +25,10 @@ img {
 }
 
 .info {
-    background-color: darkturquoise;
+    
 }
 
 .projects {
     text-align: center;
+    background-color: white;
 }
