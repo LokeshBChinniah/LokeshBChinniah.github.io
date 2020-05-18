@@ -4,8 +4,12 @@
     font-family: 'Playfair Display';
 }
 
+header {
+    background-color: #4DF0DB;
+}
+
 h1 {
-    color: #4DF0DB;
+    color: #C0DCD7;
 }
 
 h2 {
