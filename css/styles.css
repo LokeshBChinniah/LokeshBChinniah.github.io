@@ -5,17 +5,11 @@
 }
 
 body {
-    background-color: salmon;
+    background-color: #5fcf80;
 }
 
 header {
     
-}
-
-
-
-.projects {
-    text-align: center;
 }
 
 h1 {
@@ -28,4 +22,12 @@ h2 {
 
 img {
     width: 90%;
+}
+
+info {
+    background-color: darkturquoise;
+}
+
+.projects {
+    text-align: center;
 }
