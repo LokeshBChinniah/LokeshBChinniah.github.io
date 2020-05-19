@@ -29,9 +29,7 @@ a {
 }
 
 .nav {
-    display: flex;
-    justify-content: space-around;
-    list-style: none;
+    display: flex;    
     margin: 0;
     padding: 0;
 }
@@ -40,8 +38,16 @@ a {
     color: #fffdd0;
 }
 
+nav ul {
+    justify-content: space-around;
+    list-style: none;
+}
+
 .nav li {
     margin-top: 37px;
+    font-size: x-large;
+    font-weight: 600;
+    font-style: italic;
 }
 
 .preview {
