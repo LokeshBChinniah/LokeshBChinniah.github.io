@@ -13,6 +13,7 @@ body {
 
 header {
     background: #581845;
+    display: flex;
 }
 
 h2 {
@@ -39,6 +40,10 @@ a {
     color: #fffdd0;
 }
 
+.nav li {
+    margin-top: 37px;
+}
+
 .preview {
     width: 95%;
     height: auto;
@@ -49,10 +54,6 @@ a {
     border: 3px solid #fffdd0;
     width: 100px;
     height: 100px;
-}
-
-.links {
-    padding-top: 37px;
 }
 
 .info {
