@@ -29,15 +29,17 @@ a {
 
 .nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .nav a {
     color: #fffdd0;
-    padding-top: 35px;
 }
 
-
+nav li {
+    padding-top: 37px;
+    list-style: none;
+}
 
 .preview {
     width: 95%;
