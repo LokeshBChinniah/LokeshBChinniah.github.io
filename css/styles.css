@@ -30,6 +30,8 @@ h2 {
 .self-image {
     border-radius: 50%;
     border: 1px solid white;
+    width: 40%;
+    height: auto;
 }
 
 .info {
