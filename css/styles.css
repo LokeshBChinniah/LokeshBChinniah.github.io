@@ -30,15 +30,11 @@ a {
 .nav {
     display: flex;
     justify-content: space-around;
+    list-style: none;
 }
 
 .nav a {
     color: #fffdd0;
-}
-
-nav li {
-    padding-top: 37px;
-    list-style: none;
 }
 
 .preview {
@@ -68,8 +64,4 @@ nav li {
 
 .projects h1 {
     color: darkgreen;
-}
-
-.name {
-    color: #fffdd0;
 }
