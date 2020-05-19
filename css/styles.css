@@ -16,16 +16,16 @@ header {
     background: #581845;
 }
 
-h1 {
-    color: darkgreen;
-}
-
 h2 {
     color: #5fcf80;
 }
 
 h3 {
     color: #49e277;
+}
+
+.nav {
+    color: #fffdd0;
 }
 
 .preview {
@@ -35,8 +35,8 @@ h3 {
 
 .self-image {
     border-radius: 50%;
-    border: 3px solid white;
-    width: 40%;
+    border: 3px solid #fffdd0;
+    width: 40px;
     height: 100px;
 }
 
@@ -51,4 +51,8 @@ h3 {
     padding: 10px;
     max-width: 700px;
     border-radius: 5px;
+}
+
+.projects h1 {
+    color: darkgreen;
 }
