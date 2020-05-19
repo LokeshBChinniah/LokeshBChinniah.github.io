@@ -38,16 +38,18 @@ a {
     color: #fffdd0;
 }
 
-nav ul {
+/* nav ul {
     justify-content: space-around;
     list-style: none;
-}
+} */
 
 .nav li {
     margin-top: 37px;
     font-size: x-large;
     font-weight: 600;
     font-style: italic;
+    list-style: none;
+    justify-content: space-around;
 }
 
 .preview {
