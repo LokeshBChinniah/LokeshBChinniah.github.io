@@ -2,6 +2,7 @@
 
 * {
     font-family: 'Playfair Display';
+    box-sizing: border-box;
 }
 
 body {
@@ -31,4 +32,7 @@ img {
 .projects {
     text-align: center;
     background-color: white;
+    margin: 30px;
+    padding: 10px;
+    max-width: 700px;
 }
