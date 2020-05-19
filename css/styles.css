@@ -12,7 +12,6 @@ body {
 }
 
 header {
-    display: flex;
     background: #581845;
 }
 
@@ -24,9 +23,21 @@ h3 {
     color: #49e277;
 }
 
-.nav {
-    color: #fffdd0;
+a {
+    text-decoration: none;
 }
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav a {
+    color: #fffdd0;
+    padding-top: 35px;
+}
+
+
 
 .preview {
     width: 95%;
@@ -36,7 +47,7 @@ h3 {
 .self-image {
     border-radius: 50%;
     border: 3px solid #fffdd0;
-    width: 40px;
+    width: 100px;
     height: 100px;
 }
 
@@ -55,4 +66,8 @@ h3 {
 
 .projects h1 {
     color: darkgreen;
+}
+
+.name {
+    color: #fffdd0;
 }
