@@ -24,6 +24,10 @@ h2 {
     color: #5fcf80;
 }
 
+h3 {
+    color: #49e277;
+}
+
 .preview {
     width: 95%;
     height: auto;
@@ -33,7 +37,7 @@ h2 {
     border-radius: 50%;
     border: 3px solid white;
     width: 40%;
-    height: auto;
+    height: 100px;
 }
 
 .info {
