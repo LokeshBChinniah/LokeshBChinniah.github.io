@@ -6,11 +6,12 @@
 }
 
 body {
-    background-color: lightgray;
+    background: #f7f5f0;
 }
 
 header {
-    
+    display: flex;
+    background: #581845;
 }
 
 h1 {
@@ -21,19 +22,26 @@ h2 {
     color: #5fcf80;
 }
 
-img {
-    width: 90%;
+.preview {
+    width: 95%;
     height: auto;
+}
+
+.self-image {
+    border-radius: 50%;
+    border: 1px solid white;
 }
 
 .info {
     display: flex;
+    background-color: ;
 }
 
 .projects {
     text-align: center;
-    background-color: white;
+    background: #fff;
     margin: 30px;
     padding: 10px;
     max-width: 700px;
+    border-radius: 5px;
 }
