@@ -86,7 +86,15 @@ a {
 }
 
 .nav-title a {
-    font-size: x-large;
+    font-size: 2.1em;
     font-weight: 600;
     color: #fffdd0;
+    padding-left: 10px;
+}
+
+.nav-img {
+    width: 60px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
 }
