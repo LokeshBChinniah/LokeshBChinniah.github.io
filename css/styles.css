@@ -123,6 +123,11 @@ hr {
     text-align: center;
 }
 
+.contact {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .email {
     height: 50px;
     width: 50px;
