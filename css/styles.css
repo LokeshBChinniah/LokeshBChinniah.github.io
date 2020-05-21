@@ -30,6 +30,15 @@ a {
     text-decoration: none;
 }
 
+p {
+    color: #7c7a76;
+}
+
+hr {
+    width: 70%;
+    color: #7c7a76;
+}
+
 .nav {
     display: flex;    
     margin: 0;
@@ -110,6 +119,11 @@ a {
     margin-right: auto;
 }
 
-.border-top {
-    border-top: 2.5px solid #cecdc9;
+.experience {
+    text-align: center;
+}
+
+.email, .phone {
+    height: 50px;
+    width: 50px;
 }
