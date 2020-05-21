@@ -109,3 +109,7 @@ a {
     margin-left: auto;
     margin-right: auto;
 }
+
+.border-top {
+    border-top: 2.5px solid #cecdc9;
+}
