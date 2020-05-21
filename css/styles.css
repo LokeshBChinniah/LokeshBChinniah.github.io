@@ -72,9 +72,11 @@ a {
 
 .info {
     display: flex;
+    flex-wrap: wrap; 
 }
 
 .projects {
+    flex: 1 0 45%;
     text-align: center;
     background: #fff;
     margin: 30px;
