@@ -128,9 +128,15 @@ hr {
     justify-content: space-evenly;
 }
 
+.degree {
+    width: 500px;
+    height: 400px;
+}
+
 .contact {
     display: flex;
     justify-content: space-evenly;
+    margin-bottom: 10px;
 }
 
 .email {
