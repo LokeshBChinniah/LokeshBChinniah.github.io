@@ -123,6 +123,11 @@ hr {
     text-align: center;
 }
 
+.certifications {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .contact {
     display: flex;
     justify-content: space-evenly;
